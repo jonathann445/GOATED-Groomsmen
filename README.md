@@ -22,8 +22,9 @@ T-Shirt Design
 
 <img width="276" alt="TCP" src="https://user-images.githubusercontent.com/90818119/180327599-be2df927-7dc7-40d6-b8e9-56c94c38d9d6.png">
 
+<img width="595" alt="Actual Print Size" src="https://user-images.githubusercontent.com/90818119/180327949-0ff23dfc-4a23-4955-97a6-d1fbfd83bd04.png">
+
 
 QR Code Sticker 
 
-
-
+![NewerQRCode](https://user-images.githubusercontent.com/90818119/180327963-e8a8d9b6-143a-4edf-9d6a-3a40779bf281.png)
