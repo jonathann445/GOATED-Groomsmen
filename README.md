@@ -19,10 +19,11 @@ Link
 https://rarible.com/user/0x26AeE461fb92F3454dFe30f3424FffeEcf9195fD
 
 T-Shirt Design
-￼<img width="276" alt="TCP" src="https://user-images.githubusercontent.com/90818119/180327599-be2df927-7dc7-40d6-b8e9-56c94c38d9d6.png">
-￼
+
+<img width="276" alt="TCP" src="https://user-images.githubusercontent.com/90818119/180327599-be2df927-7dc7-40d6-b8e9-56c94c38d9d6.png">
+
 
 QR Code Sticker 
 
 
-￼
+
